@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+}
+div{
+    background-color:lightblue;
+    color:darkblue;
+    text-align:justify;
+}
+h1{
+    color:#3f8a3b;
+    text-align:center;
+
+}
+
+#id1{
+    background-color:red;
+}
+#id2{
+    background-color: green;
+}
+
+.para{
+    color:red;
+    text-align:left;
+}

@@ -1,0 +1,24 @@
+.col4{
+    width: 100%;
+    border: solid red 2px;
+    
+    float:left;
+
+}
+.col1,.col2{
+    background-color: yellow;
+    width: 30%;
+    border: solid red 2px;
+    margin: 10px;
+    padding:30px;
+    float:left;
+}
+.row2{
+    clear:both;
+    
+}
+.col3{
+
+}
+
+
